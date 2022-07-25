@@ -1,4 +1,4 @@
-##  Binary Early-Exit Network for Adaptive Inference on Low-Resource Devices (Interspeeh 2022)
+##  Binary Early-Exit Network for Adaptive Inference on Low-Resource Devices (Interspeech 2022)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fMFNIg3-Sc3ie12awn4OiO3-y7x_A_Ja?usp=sharing)
 
